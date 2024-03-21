@@ -40,6 +40,9 @@
       "type": "biginteger",
       "default": "0",
       "required": false
+    },
+    "YoutubeURL": {
+      "type": "string"
     }
   }
 }
